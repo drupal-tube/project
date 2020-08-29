@@ -4,7 +4,7 @@
     "description": "Project template for Drupal 9 sites built with the Tube distribution.",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/tube": "1.x-dev",
+        "drupal/tube": "dev-1.0.x",
         "cweagans/composer-patches": "^1.6.0",
         "drupal/core-composer-scaffold": "*",
         "oomphinc/composer-installers-extender": "^1.1"
